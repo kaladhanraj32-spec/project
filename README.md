@@ -1,7 +1,5 @@
 # project
-This is my repository
-
-hello world!
+This is my repository ,hello world!
 
 
 
